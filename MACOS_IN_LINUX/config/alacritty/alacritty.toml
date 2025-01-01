@@ -1,0 +1,47 @@
+[font]
+normal = { family = "Fira Code", style = "Regular" }
+size = 7.0
+
+[window]
+decorations = "full"
+padding = { x = 10, y = 10 }
+opacity = 1.0
+
+[colors]
+[colors.primary]
+background = "#282C34"
+foreground = "#ABB2BF"
+
+[colors.normal]
+black = "#282C34"
+red = "#E06C75"
+green = "#98C379"
+yellow = "#E5C07B"
+blue = "#61AFEF"
+magenta = "#C678DD"
+cyan = "#56B6C2"
+white = "#ABB2BF"
+
+[colors.bright]
+black = "#5C6370"
+red = "#E06C75"
+green = "#98C379"
+yellow = "#E5C07B"
+blue = "#61AFEF"
+magenta = "#C678DD"
+cyan = "#56B6C2"
+white = "#FFFFFF"
+
+[scrolling]
+history = 10000
+
+[keyboard]
+[[keyboard.bindings]]
+action = "Copy"
+mods = "Control|Shift"
+key = "C"
+
+[[keyboard.bindings]]
+action = "Paste"
+mods = "Control|Shift"
+key = "V"

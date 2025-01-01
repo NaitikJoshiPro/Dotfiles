@@ -1,0 +1,22 @@
+# List of installed packages
+alacritty
+build-essential
+cargo
+cmake
+fusuma
+gir1.2-dbusmenu-glib-0.4
+git
+i3
+imagemagick
+libdbusmenu-glib-dev
+libdbusmenu-glib4
+libdbusmenu-gtk3-dev
+libinput-tools
+libpango-1.0-0
+libxext-dev
+libxinerama-dev
+picom
+python3-i3ipc\
+ruby
+rustup
+scrot
